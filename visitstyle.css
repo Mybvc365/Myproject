@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#00B4CC;
+  }
+ 
+  li {
+    float: left;
+  }
+ 
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color:#ddd;
+    color:black;
+  }
+
+
+  table, th, td{
+    margin: 30px;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    width: 30%;
+    color: #0390a2;
+}
